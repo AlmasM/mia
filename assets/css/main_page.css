@@ -1,0 +1,81 @@
+body{
+    font-family: Georgia, Arial, "Times New Roman", Times, serif;
+
+}
+
+.navBar{
+
+}
+
+.navImage{
+    width: 30px;
+}
+
+
+.jumbotronMain{
+    background: none;
+    align-items: center;
+    margin: 0px;
+    text-align: center;
+}
+
+
+.buttonGallery{
+    margin: 0px 10px 10px 10px;
+}
+
+.imageGallery{
+    width: 70%;
+
+}
+
+.card-header, .btn-light{
+    border-bottom: none;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.modelGallery{
+    text-align: center;
+    margin: 0px 200px 0px 200px;
+}
+
+
+@media only screen and (max-width: 580px) {
+    .modelGallery{
+        text-align: center;
+        margin: 0px 0px 0px 0px;
+    }
+}
+
+
+.sliderParameter{
+    width: 200px;
+    margin: 50px;
+
+}
+
+.allParameter{
+    text-align: center;
+    background-color: yellow;
+    align-items: center;
+    margin: 50px;
+
+}
+
+.uploadFiles{
+    border-style: dotted;
+    border-radius: 5px;
+    border-width: 1px;
+    text-align: center;
+    height: 100px;
+    width: 50%;
+    background-color: #FFFFFF;
+    margin: 0px 200px 0px 200px;
+
+}
+
+#upload-data{
+    text-align: center;
+    margin: auto;
+}
